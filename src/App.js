@@ -14,7 +14,7 @@ function App() {
       <Header />
       <ScrollToTopOnNavigate />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/Plants-Shop/" element={<Home />} />
         <Route path="/shop">
           <Route index element={<Shop />} />
           <Route path=":id" element={<ProductDetails />} />
