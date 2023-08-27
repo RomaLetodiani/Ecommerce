@@ -10,8 +10,8 @@ export const DataProvider = ({ children }) => {
 
   useEffect(() => {
     axios
-      .get('http://localhost:3001/plants')
-      .then((res) => setData(res.data))
+      .get('https://romaletodiani.github.io/Ecommerce/db.json')
+      .then((res) => setData(res.data.Plants))
       .catch((err) => {
         console.error(err);
       });
