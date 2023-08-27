@@ -50,7 +50,11 @@ const FormPopUp = ({ isOpen, setIsOpen }) => {
           <CloseIcon />
         </button>
       </div>
-      <form onSubmit={handleSubmit} className="flex flex-col gap-5 pt-5">
+      <form
+        name="PopUp"
+        onSubmit={handleSubmit}
+        className="flex flex-col gap-5 pt-5"
+      >
         <div className="flex gap-5 w-full">
           <input
             type="text"

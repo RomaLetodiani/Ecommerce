@@ -9,6 +9,8 @@ const ProductDetails = () => {
   const { addToCart, quantity, setQuantity } = useCartData();
   const [adding, setAdding] = useState(false);
 
+  console.log(params);
+
   const handleAdd = () => {
     if (quantity >= 1) {
       addToCart(plant, quantity);
@@ -27,9 +29,14 @@ const ProductDetails = () => {
   };
 
   useEffect(() => {
-    axios.get(`http://localhost:3001/plants/${params.id}`).then((res) => {
-      setPlant(res.data);
-    });
+    axios
+      .get(`https://romaletodiani.github.io/Ecommerce/db.json`)
+      .then((res) => {
+        setPlant(res.data.Plants[params.id - 1]);
+      })
+      .catch((err) => {
+        console.error(err);
+      });
   }, [params.id]);
 
   return (
