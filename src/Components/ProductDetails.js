@@ -9,8 +9,6 @@ const ProductDetails = () => {
   const { addToCart, quantity, setQuantity } = useCartData();
   const [adding, setAdding] = useState(false);
 
-  console.log(params);
-
   const handleAdd = () => {
     if (quantity >= 1) {
       addToCart(plant, quantity);
