@@ -33,14 +33,14 @@ const CartItem = ({ item }) => {
             <button onClick={() => item.quantity > 1 && decrQuantity(item)}>
               <RemoveIcon />
             </button>
-            <p>{item.quantity}</p>
+            <p className="w-[3ch] text-center">{item.quantity}</p>
             <button onClick={() => incrQuantity(item)}>
               <AddIcon />
             </button>
           </div>
         </div>
       </div>
-      <div className="flex flex-col justify-between gap-5">
+      <div className="flex flex-col justify-between items-end gap-5">
         <button onClick={() => removeFromCart(item.id)}>
           <CloseIcon />
         </button>

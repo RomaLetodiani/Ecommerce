@@ -29,7 +29,7 @@ const Cart = () => {
           <div className="mt-10 flex flex-col self-end">
             <div className="flex justify-between gap-10 text-2xl mb-5">
               <p>Total : </p>
-              <p>${total}.00</p>
+              <p className="w-[6ch]">${total}.00</p>
             </div>
             <Button className="self-end">Checkout</Button>
           </div>
