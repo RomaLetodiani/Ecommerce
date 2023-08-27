@@ -1,0 +1,76 @@
+{
+  "Plants": [
+    {
+      "id": 1,
+      "title": "Alocasia",
+      "price": "20.00",
+      "description": "Alocasia, also known as elephant ear plant, is prized for its distinctive large, heart-shaped leaves that resemble elephant ears. With captivating patterns and varying sizes, it's a popular choice for both indoor and tropical garden settings.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847322-4H2NM43YPYV7JMRBM7OK/Ecomm_05_Alocasia_008.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847318-A0AQVX6PRRI4OJUC4D1K/Texture_01_009.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "title": "Pencil Plant",
+      "price": "12.00",
+      "description": "The Pencil Plant, scientifically known as Euphorbia tirucalli, is a unique succulent with slender, pencil-thin stems that rise vertically. It features a minimalist, modern aesthetic and is an easy-to-care-for indoor plant. The plant's cylindrical branches add a touch of contemporary elegance to any space.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847300-8EMGPA91Y5RC0DIT35XK/Ecomm_10_Pencil_002.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847293-DTOHP27SFGJCWTPGGP7F/Texture_06_010.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "title": "Lily",
+      "price": "15.00",
+      "description": "Lily plant, with its lush foliage and soothing green hues, brings a touch of tranquility to indoor and outdoor spaces. Its vibrant leaves create a calming ambiance, making it a versatile choice for enhancing décor and adding a refreshing natural element.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847252-FFHVVBAXZ9BRCZEMFYD8/Ecomm_02_Lily_004.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847261-T6I24JV8CKR51LA568G4/Texture_09_012.jpg?format=1000w",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "title": "Snake",
+      "price": "12.00",
+      "description": "The Snake Plant, scientifically known as Sansevieria, is a resilient and visually striking indoor plant. Its upright, sword-like leaves are characterized by unique patterns and color variations.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847343-OO970XBX5QATK8BPPEHU/Ecomm_17_Snake_001.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847338-3F6KFHJFV3BXR0J34SGM/Texture_07_016.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "title": "Orchid",
+      "price": "30.00",
+      "description": "Orchids, known for their exquisite beauty, are delicate flowering plants adored for their intricate blooms. With a vast variety of colors and shapes, Orchids bring elegance to any space.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847355-J1FKAQTCT2AP3UKEYY5B/Ecomm_04_Orchid_005.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847363-JQLXUR4Z7DBONR9X8ADB/texture-orchid.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "title": "Pink Calathea",
+      "price": "20.00",
+      "description": "The Pink Calathea, a captivating tropical plant, stands out with its striking pink-toned leaves. Known for its vibrant foliage and unique patterns, it adds a touch of natural artistry to indoor spaces.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847383-P8U6RP1MOC5J8L3KUKCQ/Ecomm_03_CalatheaPink_006.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847394-54IDYJ3S544CDAQE4Y9V/Texture_03_010.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "title": "Maiden Hair",
+      "price": "10.00",
+      "description": "The Maidenhair fern, characterized by its delicate fronds and fine, hair-like leaflets, brings a touch of grace and elegance to indoor environments.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847410-IZN9N40NAJ0NF5PTJLTW/Ecomm_13_MaidenHair_006.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847423-AW1K1JSY69JFJT86422X/Texture_08_029.jpg?format=500w",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "title": "Cactus",
+      "price": "50.00",
+      "description": "known for their iconic spiky appearance, are hardy succulent plants adapted to arid environments with minimal water requirements and a distinctive charm, cactus thrive in both indoor and outdoor settings.",
+      "img1": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847439-NODGSAVJKHZP4F7AVBMG/Ecomm_16_Cactus2_005.jpg?format=500w",
+      "img2": "https://images.squarespace-cdn.com/content/v1/624b3c6dbfcb28795baabd33/1649097847446-G507CZYLVAPHZZZLUJFW/texture-cactus.jpg?format=300w",
+      "quantity": 0
+    }
+  ]
+}
